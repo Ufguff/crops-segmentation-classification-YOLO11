@@ -1,0 +1,6 @@
+ultralytics
+os
+pandas
+pillow
+scikit-learn
+opencv-python
